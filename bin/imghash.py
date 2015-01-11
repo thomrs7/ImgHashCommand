@@ -47,12 +47,14 @@ class ImgHashCommand(StreamingCommand):
         """
 
         for event in events:
-            try:
-                self.logger.info(event[self.field])
+            self.logger.debug("start")
 
-                file = cStringIO.StringIO(
+            try:
+                self.logger.debug(event[self.field])
+
+                raw_file = cStringIO.StringIO(
                     urllib.urlopen(event[self.field]).read())
-                img = Image.open(file)
+                img = Image.open(raw_file)
 
                 event[self.avg] = str(imagehash.average_hash(img))
                 event[self.per] = str(imagehash.phash(img))
@@ -64,6 +66,8 @@ class ImgHashCommand(StreamingCommand):
                 event[self.avg] = -1
                 event[self.per] = -1
                 event[self.diff] = -1
+
+            self.logger.debug("end")
             yield event
 
 
