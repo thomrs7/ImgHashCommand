@@ -1,0 +1,222 @@
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+ERROR:imghash: None
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__', 'field=', 'media_thumbnail{}.url']
+DEBUG:search_command_internals: ImgHashCommand: imghash field="media_thumbnail{}.url"
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__', 'field=', 'media_thumbnail{}.url']
+DEBUG:search_command_internals: ImgHashCommand: imghash field="media_thumbnail{}.url"
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+ERROR:imghash: 'url'
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+INFO:imghash: 
+ERROR:imghash: [Errno 2] No such file or directory: ''
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__EXECUTE__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141107105902-01-pumpdump-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141117165341-02-teen-sexting-1117-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150104184338-dnt-cougar-trapped-in-home-00012828-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141223154724-01-cnnphotos-capa-bulge-restricted-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150105085802-orig-secret-school-for-aleppos-children-00013312-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141126064800-01-ferguson-1126-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150106112011-newday-dnt-son-reflects-on-mario-cuomo-00053827-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141215202739-02-phil-stern-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/150103232935-ezadeen-migrant-ship-top-tease.jpg
+INFO:imghash: http://i2.cdn.turner.com/cnn/dam/assets/141218170410-roger-ebert-thumb-cfb-2-top-tease.jpg
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
+DEBUG:search_command: ImgHashCommand arguments: ['/opt/splunk/etc/apps/ImgHashCommand/bin/imghash.py', '__GETINFO__']
+DEBUG:search_command_internals: ImgHashCommand: imghash
