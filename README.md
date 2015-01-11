@@ -2,7 +2,7 @@ Tested against splunk 6.2 on OSX 10.10.
 
 ##Syntax
 
-imghas field=&lt;field| deafaults to img_url%gt;
+imghas field=&lt;field| deafaults to img_url&gt;
 
 ##Usage
 
