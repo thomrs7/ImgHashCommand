@@ -48,4 +48,15 @@ swiftly.
 * numpy
 * scipy
 
+## Troubleshoting
+Logs are written to the searches.log
+
+To enalbe logging to $SPLUNK_HOME/etc/apps/ImgHashCommand/imghash.log update
+ [logger_ImgHashCommand] handlers to 'file'
+
+Currently all messages are logged in a produciton system I'd change the log
+level to 'WARNING'
+
+
+
 
