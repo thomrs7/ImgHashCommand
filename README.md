@@ -3,8 +3,8 @@
 Add image hash information to your splunk searches.
 
 ##About
-Data often has an image as part of the dataset.  This command takes an images URL
-and returns three images hashes to use in data processing. 
+Datasets often contain an image as part of the informtion.  This new command 
+takes an images URL and returns three images hashes to use in data processing. 
 
 * average hashing 
 * perception hashing 
