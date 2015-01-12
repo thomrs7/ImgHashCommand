@@ -1,4 +1,4 @@
-#ImgHashCommand
+#$lt;img&gt;HashCommand
 
 Add image hash information to your splunk searches.
 
