@@ -42,6 +42,7 @@ below for more.
 
 
  img_url|	average_hash|	difference_hash|	perception_hash
+--- | --- | --- | ---
 http://www.randomwebsite.com/images/head.jpg|	f1f0fce4fc5d5fff|	897204d8b943a6fb|	8e0e1e7e7ee6f0f0
 
 
