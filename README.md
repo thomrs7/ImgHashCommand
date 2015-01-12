@@ -30,6 +30,12 @@ There is an Image Hash Example dashborad that deminstrares usage.
 
 imghash field=&lt;field| deafaults to img_url&gt;
 
+    The <b>field<b> passed should contain a full URL. Note this can also be
+    'file://'
+
+If there is an error of some sort a -1 will be returned.  See troubleshoting
+below for more.
+
 ##Usage
 
 search * | head 1 | eval img_url="http://www.randomwebsite.com/images/head.jpg" | imghash
