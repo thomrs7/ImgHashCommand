@@ -30,7 +30,8 @@ There is an Image Hash Example dashborad that deminstrares usage.
 
     | imghash field=<field| defaults to img_url>
 
-The __field__ passed should contain a full URL. Note this  also includes using `file://`
+The __field__ passed should contain a full URL. Note this  also includes using 
+`file://` for processing images on a local drive.
 
 If there is an error of some sort a __-1__ will be returned.  See troubleshoting
 below for more.
