@@ -28,7 +28,7 @@ There is an Image Hash Example dashborad that deminstrares usage.
 
 ##Syntax
 
-imghas field=&lt;field| deafaults to img_url&gt;
+imghash field=&lt;field| deafaults to img_url&gt;
 
 ##Usage
 
