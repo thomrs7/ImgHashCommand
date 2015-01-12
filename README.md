@@ -28,7 +28,7 @@ There is an Image Hash Example dashborad that deminstrares usage.
 
 ##Syntax
 
-    | imghash field=<field| deafaults to img_url>
+    | imghash field=<field| defaults to img_url>
 
 The __field__ passed should contain a full URL. Note this can also be 'file://'
 
