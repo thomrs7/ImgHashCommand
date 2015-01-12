@@ -28,7 +28,7 @@ There is an Image Hash Example dashborad that deminstrares usage.
 
 ##Syntax
 
-    imghash field=<field| deafaults to img_url>
+    | imghash field=<field| deafaults to img_url>
 
 The __field__ passed should contain a full URL. Note this can also be 'file://'
 
@@ -37,7 +37,13 @@ below for more.
 
 ##Usage
 
-search * | head 1 | eval img_url="http://www.randomwebsite.com/images/head.jpg" | imghash
+    * | head 1 | eval img_url="http://www.randomwebsite.com/images/head.jpg" | imghash |  
+    table img_url average_hash difference_hash perception_hash
+
+
+ img_url|	average_hash|	difference_hash|	perception_hash
+http://www.randomwebsite.com/images/head.jpg|	f1f0fce4fc5d5fff|	897204d8b943a6fb|	8e0e1e7e7ee6f0f0
+
 
 ##Requirements
 
