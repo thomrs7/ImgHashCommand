@@ -64,11 +64,16 @@ swiftly.
 ## Troubleshoting
 Logs are written to the search's search.log, accesable via. the job inspector.
 
-To enalbe logging to $SPLUNK_HOME/etc/apps/ImgHashCommand/imghash.log update
+To enalbe logging to `$SPLUNK_HOME/etc/apps/ImgHashCommand/imghash.log` update
  [logger_ImgHashCommand] handlers to 'file'
 
 Currently all messages are logged in a produciton system I'd change the log
-level to 'WARNING'
+level to 'WARNING'.
+
+
+                                   ---
+
+
 
 
 
