@@ -49,7 +49,7 @@ swiftly.
 * scipy
 
 ## Troubleshoting
-Logs are written to the searches.log
+Logs are written to the search's search.log, accesable via. the job inspector.
 
 To enalbe logging to $SPLUNK_HOME/etc/apps/ImgHashCommand/imghash.log update
  [logger_ImgHashCommand] handlers to 'file'
