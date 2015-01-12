@@ -65,10 +65,12 @@ swiftly.
 Logs are written to the search's search.log, accesable via. the job inspector.
 
 To enalbe logging to `$SPLUNK_HOME/etc/apps/ImgHashCommand/imghash.log` update
- [logger_ImgHashCommand] handlers to 'file'
+the log handeler in `loggin.conf`
+  [logger_ImgHashCommand]
+  handlers = file
 
 Currently all messages are logged in a produciton system I'd change the log
-level to 'WARNING'.
+level to _'WARNING'_.
 
 
                                    ---
