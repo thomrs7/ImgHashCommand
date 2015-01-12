@@ -13,7 +13,7 @@ takes an images URL and returns three images hashes to use in data processing.
 The hash will the same for mathing images.  The algorithm works even if the
 image has been resized or slightly modified.
 
-The core library in use ImageHash, https://pypi.python.org/pypi/ImageHash,
+The core library  used is ImageHash, https://pypi.python.org/pypi/ImageHash,
 provides more information on each algorithm.
 
 By comparing the hashs I was able to prune  my photo library from 20G to 14G. I
