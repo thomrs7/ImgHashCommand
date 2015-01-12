@@ -38,10 +38,11 @@ search * | head 1 | eval img_url="http://www.randomwebsite.com/images/head.jpg" 
 
 Tested against splunk 6.2 on OSX 10.10.
 
-The follow PKGS as included for  OSX 10.10.  If using a different OS the
+The follow PKGS are included for OSX 10.10.  If using a different OS the
 following packages should be updated with versions from your system.  Simply
-install the pkks with PIP and move them from yur site-packages to this apps bin
-directory.
+install the pks with PIP and move them from yur site-packages to this apps bin
+directory.  The install process compiles some C code to keep things running
+swiftly. 
 
 * PIL or Pillow
 * numpy
