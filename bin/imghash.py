@@ -75,8 +75,6 @@ class ImgHashCommand(StreamingCommand):
                 if not self.difference:
                     event[self.diff] = str(imagehash.dhash(img))
 
-
-
             except Exception as e:
                 self.logger.error(e)
 
