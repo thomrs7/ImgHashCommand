@@ -23,7 +23,7 @@ class ImgHashCommand(StreamingCommand):
     """
     avg = Option(
         doc=''' average hashing (aHash) ''',
-        default='average_hash')
+        default='average_hash' )
 
     per = Option(
         doc=''' perception hashing (pHash) ''',
@@ -38,6 +38,18 @@ class ImgHashCommand(StreamingCommand):
         **Syntax:** **pattern=***<regular-expression>*
         **Description:** Regular expression pattern to match''',
         default='img_url')
+
+
+    average = Option(
+        doc=''' average hashing (aHash) ''' )
+
+    difference = Option(
+        doc=''' average hashing (aHash) ''' )
+
+
+    perception = Option(
+        doc=''' average hashing (aHash) ''' )
+
 
     def stream(self, events):
         """
@@ -56,9 +68,14 @@ class ImgHashCommand(StreamingCommand):
                     urllib.urlopen(event[self.field]).read())
                 img = Image.open(raw_file)
 
-                event[self.avg] = str(imagehash.average_hash(img))
-                event[self.per] = str(imagehash.phash(img))
-                event[self.diff] = str(imagehash.dhash(img))
+                if not self.average:
+                    event[self.avg] = str(imagehash.average_hash(img))
+                if not self.perception:
+                    event[self.per] = str(imagehash.phash(img))
+                if not self.difference:
+                    event[self.diff] = str(imagehash.dhash(img))
+
+
 
             except Exception as e:
                 self.logger.error(e)
