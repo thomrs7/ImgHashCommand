@@ -1,0 +1,32 @@
+<dashboard>
+  <label>Image Hash Example</label>
+  <row>
+    <panel>
+      <title>Raw Data</title>
+      <table>
+        <search>
+          <query>|  inputlookup sample.csv</query>
+          <earliest>0</earliest>
+          <latest></latest>
+        </search>
+        <option name="wrap">true</option>
+        <option name="rowNumbers">false</option>
+        <option name="drilldown">cell</option>
+        <option name="dataOverlayMode">none</option>
+        <option name="count">10</option>
+      </table>
+    </panel>
+  </row>
+  <row>
+    <panel>
+      <title>Data enriched with image hashes</title>
+      <table>
+        <search>
+          <query>|  inputlookup sample.csv | imghash</query>
+          <earliest></earliest>
+          <latest></latest>
+        </search>
+      </table>
+    </panel>
+  </row>
+</dashboard>
