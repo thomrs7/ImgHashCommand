@@ -36,8 +36,6 @@ class ImgHashCommand(StreamingCommand):
         default='hash_difference')
 
 
-
-
     def stream(self, events):
         """
 
